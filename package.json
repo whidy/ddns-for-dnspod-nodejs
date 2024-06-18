@@ -1,0 +1,10 @@
+{
+  "name": "ddns-for-dnspod",
+  "version": "1.0.0",
+  "author": "whidy",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "tencentcloud-sdk-nodejs-dnspod": "latest"
+  }
+}
